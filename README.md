@@ -53,8 +53,9 @@ The **Minimax algorithm** is a decision-making algorithm used in two-player game
                  |
     --------------------------------
     |                              |
-(Human Move)                 (Human Move)
+  (Human Move)                 (Human Move)
  -10 (Loss)                     0 (Tie)
+
 
 
 - AI **chooses the move that prevents a loss** and **maximizes its chance of winning**.
