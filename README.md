@@ -49,12 +49,13 @@ The **Minimax algorithm** is a decision-making algorithm used in two-player game
 ---
 
 ## 🏗 **Minimax Decision Tree Example**
-              (AI's Turn)
-                 |
-    --------------------------------
-    |                              |
-  (Human Move)                 (Human Move)
- -10 (Loss)                     0 (Tie)
+                      (AI's Turn)
+                          |
+             ------------------------
+             |                      |
+         (Human Move)           (Human Move)
+         -10 (Loss)             0 (Tie)
+
 
 
 
